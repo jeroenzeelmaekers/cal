@@ -1,7 +1,9 @@
+import Calendar from "@/components/ui/organisms/calendar";
+
 export default function Home() {
   return (
     <main>
-      <h1>Cal</h1>
+      <Calendar />
     </main>
   );
 }
